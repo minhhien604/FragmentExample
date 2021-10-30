@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="15dp"
+    android:background="@color/purple_200">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Frag3">
+
+    </TextView>
+    <EditText
+        android:id="@+id/edtFrag3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter ..."
+        android:textSize="26sp">
+
+    </EditText>
+    <Button
+        android:id="@+id/btnFra3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Click me"
+        android:textSize="20sp"
+        android:layout_gravity="end">
+
+    </Button>
+
+
+</LinearLayout>

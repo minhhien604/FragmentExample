@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity3"
+    android:orientation="vertical"
+    android:padding="10dp">
+    <EditText
+        android:id="@+id/edtContent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter ..."
+        android:textSize="26sp">
+
+    </EditText>
+    <Button
+        android:id="@+id/btnChange"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Change"
+        android:textSize="20sp">
+
+    </Button>
+    <fragment
+        android:id="@+id/fragment3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:name="com.example.fragmentexample.Fragment3"
+        tools:layout="@layout/fragment_layout_3">
+
+    </fragment>
+    <fragment
+        android:id="@+id/fragment4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:name="com.example.fragmentexample.Fragment4"
+        tools:layout="@layout/fragment_layout_4">
+
+    </fragment>
+
+
+
+
+
+</LinearLayout>

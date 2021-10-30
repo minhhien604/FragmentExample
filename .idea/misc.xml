@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/HK1-N3/DIDONG/FragmentExample/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/HK1-N3/DIDONG/FragmentExample/app/src/main/res/layout/activity_main2.xml" value="0.10666666666666667" />
+        <entry key="..\:/HK1-N3/DIDONG/FragmentExample/app/src/main/res/layout/activity_main3.xml" value="0.16666666666666666" />
+        <entry key="..\:/HK1-N3/DIDONG/FragmentExample/app/src/main/res/layout/activity_product.xml" value="0.1" />
+        <entry key="..\:/HK1-N3/DIDONG/FragmentExample/app/src/main/res/layout/fragment_blank.xml" value="0.1" />
+        <entry key="..\:/HK1-N3/DIDONG/FragmentExample/app/src/main/res/layout/fragment_lay1.xml" value="0.1" />
+        <entry key="..\:/HK1-N3/DIDONG/FragmentExample/app/src/main/res/layout/fragment_lay2.xml" value="0.1" />
+        <entry key="..\:/HK1-N3/DIDONG/FragmentExample/app/src/main/res/layout/fragment_layout_3.xml" value="0.1" />
+        <entry key="..\:/HK1-N3/DIDONG/FragmentExample/app/src/main/res/layout/fragment_layout_4.xml" value="0.1" />
+        <entry key="..\:/HK1-N3/DIDONG/FragmentExample/app/src/main/res/layout/item_listview.xml" value="0.1" />
+        <entry key="..\:/HK1-N3/DIDONG/FragmentExample/app/src/main/res/layout/productfragment.xml" value="0.1" />
+        <entry key="..\:/HK1-N3/DIDONG/K194111604_TranThiMinhHien/FragmentExample/app/src/main/res/layout/activity_main.xml" value="0.18115942028985507" />
+        <entry key="..\:/HK1-N3/DIDONG/K194111604_TranThiMinhHien/FragmentExample/app/src/main/res/layout/fragment_lay2.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
